@@ -25,4 +25,4 @@ RESET BUTTON
 
 SHOWN BELOW A SCREENSHOT OF THE REPORT BUILT IN POWER BI
 
-![image](https://github.com/user-attachments/assets/e63d7904-2318-4e41-a2c9-9c9c527b35de)
+![image](https://github.com/user-attachments/assets/848b337a-b541-4889-aba3-dfdaf49e222e)
