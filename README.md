@@ -8,7 +8,7 @@ The report contains:
 
 **SLICERS**
 
-**DONUT CHART**
+**PIE CHART**
 
 **LINE AND STACKED COLUMN**
 
