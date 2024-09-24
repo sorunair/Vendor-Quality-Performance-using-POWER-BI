@@ -1,28 +1,26 @@
-VENDOR QUALITY PERFROMANCE - FURNITURE RETAIL
-
+**VENDOR QUALITY PERFROMANCE - FURNITURE RETAIL**
 The Power BI report will let you know which vendor is performing better in terms of rejections and reworks on their manufactured furnitures.
 The report contains:
 
-**CARDS
+**CARDS**
 
-HEAT MAP AS CALENDER
+**HEAT MAP AS CALENDER**
 
-SLICERS
+**SLICERS**
 
-DONUT CHART
+**DONUT CHART**
 
-LINE AND STACKED COLUMN
+**LINE AND STACKED COLUMN**
 
-TABLE
+**TABLE**
 
-BOOKMARKS
+**BOOKMARKS**
 
-DRILLTHROUGH FEATURES
+**DRILLTHROUGH FEATURES**
 
-DRILL DOWN
+**DRILL DOWN**
 
-RESET BUTTON
-**
+**RESET BUTTON**
 
 **MEASURES USED:**
 
@@ -49,6 +47,6 @@ RESET BUTTON
 11. Total Offered for contri purpose - Total offered for contri purpose = CALCULATE(SUM('MTO Sofas'[Qtys. offered for inspection]),ALL('MTO Sofas'))
 
     
-SHOWN BELOW A SCREENSHOT OF THE REPORT BUILT IN POWER BI
+**SHOWN BELOW A SCREENSHOT OF THE REPORT BUILT IN POWER BI**
 
 ![image](https://github.com/user-attachments/assets/848b337a-b541-4889-aba3-dfdaf49e222e)
